@@ -1,0 +1,30 @@
+
+Date and Time of Recording: 2020-01-07 14:04:22.810114
+
+Video file : video2.MOV
+
+Prediction 0 : DL3CBV5473I
+
+Prediction 1 : DL3CBV5479
+
+Prediction 2 : DL3CBV5473
+
+Prediction 3 : DL3CBV5473
+
+Prediction 4 : DL3CBV5473
+
+Prediction 5 : DL3CBVS473
+
+Prediction 6 : DL3CBV6473
+
+Prediction 7 : DL3CBV5473U
+
+Prediction 8 : DL3CBVS473K
+
+Prediction 9 : DL3CBV5473
+
+Prediction 10 : DL308V5473
+
+Prediction 11 : 3CBV547
+
+Final Prediction: DL3CBV5473
