@@ -1,5 +1,5 @@
 # AutoScan
-https://img.shields.io/github/license/ujjalsharma/AutoScan
+
 AutoScan is a License Plate Detection and Recognition System which takes a video input and detects a license plate using YOLO and then recognizes the number in the License Plate by using a CNN classifier and gives the output.
 The whole project pipeline is explained by the diagram below
 ![pipeline](images/pipeline.png)
